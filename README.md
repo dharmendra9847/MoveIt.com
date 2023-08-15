@@ -1,7 +1,7 @@
-# MoveIt.com
+## MoveIt.com
 A responsive web application fit any screen size.
 
-##Tech Stack 🛠️
+## Tech Stack 🛠️
 
 - HTML5
 - CSS3
